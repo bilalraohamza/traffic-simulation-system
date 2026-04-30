@@ -1,0 +1,36 @@
+# Model files - too large for GitHub
+*.onnx
+*.pt
+*.pth
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Java build output
+*.class
+*.jar
+target/
+build/
+out/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Dataset files
+*.cache
+combined_dataset/
+
+# OS files
+.DS_Store
+Thumbs.db
