@@ -34,3 +34,6 @@ combined_dataset/
 # OS files
 .DS_Store
 Thumbs.db
+
+#Master Prompts
+MASTER_PROMPT.txt
